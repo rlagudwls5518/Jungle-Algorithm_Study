@@ -17,8 +17,8 @@
 - [N으로 표현](https://school.programmers.co.kr/learn/courses/30/lessons/42895)
 - [정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105)
 
-### 8/13(미정)
-- []()
+### 8/13(DFS/BFS)
+- [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)
 - []()
 
 ### 8/15(미정)
